@@ -1,2 +1,2 @@
-# NLP-self_evaluation
-自然语言处理课程自我评价
+# NLP self-evaluation
+ NLP课程期末个人评价
